@@ -7,6 +7,7 @@
 // @match        https://jpdb.io/review*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=jpdb.io
 // @grant        none
+// @updateURL    https://github.com/snomiao/jpdb-hotkeys.user.js/raw/main/jpdb-hotkeys.user.js
 // ==/UserScript==
 
 const $$ = (sel) => Array.from(document.querySelectorAll(sel));
